@@ -24,6 +24,5 @@ dist-ssr
 *.sw?
 
 # extra files
-*.mp4
 *.docx
 *.jpeg
